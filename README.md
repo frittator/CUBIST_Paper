@@ -1,5 +1,7 @@
-# CUBIST_Paper
-CUBIST Paper to be written in 2015
+# CUBIST Paper
+
+A summary of the CUBIST project, to be written in 2015.
+If you wish to contribute please email Frithjof.
 
 ## Journal
 We will be targeting Elsevier Information Sciences:
